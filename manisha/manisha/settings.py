@@ -38,7 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'ecore',
-    'jwtauth'
+    'jwtauth',
     'rest_framework',
     'rest_framework_swagger',
 ]
